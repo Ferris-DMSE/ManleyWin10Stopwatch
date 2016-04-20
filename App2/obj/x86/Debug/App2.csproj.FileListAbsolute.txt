@@ -1,0 +1,588 @@
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\ApplicationInsights.config
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App.xbf
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\MainPage.xbf
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.xr.xml
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.exe
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.pdb
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\resources.pri
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\AppxManifest.xml
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Core\App2.exe
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Core\AppxManifest.xml
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.build.appxrecipe
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.CSharp.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Core.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Numerics.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Web.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Windows.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.Linq.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.Serialization.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.VisualBasic.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.AppContext.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.Concurrent.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.Immutable.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.NonGeneric.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.Specialized.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.Annotations.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Data.Common.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Contracts.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Debug.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Tools.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Tracing.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Dynamic.Runtime.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Globalization.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Globalization.Calendars.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Globalization.Extensions.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.Compression.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\ClrCompression.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.FileSystem.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.IsolatedStorage.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.Expressions.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.Parallel.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.Queryable.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Http.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Http.Rtc.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.NetworkInformation.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Primitives.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Requests.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Sockets.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Numerics.Vectors.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ObjectModel.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.DataContractSerialization.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.Networking.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.ServiceModel.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.Uri.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Context.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Emit.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Extensions.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Metadata.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Primitives.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Resources.ResourceManager.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Extensions.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Handles.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.InteropServices.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Numerics.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Security.Claims.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Security.Principal.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Duplex.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Http.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Primitives.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Security.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.Encoding.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.RegularExpressions.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Overlapped.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Tasks.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Timer.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.ReaderWriter.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.XDocument.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.XmlDocument.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.XmlSerializer.dll
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App2.csprojResolveAssemblyReference.cache
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.g.i.cs
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.g.cs
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.g.i.cs
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.g.cs
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.xaml
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.xaml
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.xbf
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.xbf
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\XamlSaveStateFile.xml
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App2.exe
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App2.pdb
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\ResourceHandlingTask.state
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\priconfig.xml
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\layout.resfiles
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\resources.resfiles
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\pri.resfiles
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\qualifiers.txt
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mmanl\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\ProjectArchitectures.txt
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\ApplicationInsights.config
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\App.xbf
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\MainPage.xbf
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\App2.xr.xml
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\App2.exe
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\App2.pdb
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\resources.pri
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\AppxManifest.xml
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Core\App2.exe
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Core\AppxManifest.xml
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\App2.build.appxrecipe
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.CSharp.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Core.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Numerics.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Windows.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.Linq.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.Serialization.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.AppContext.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.Immutable.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Collections.Specialized.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Data.Common.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Globalization.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.Compression.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\ClrCompression.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.FileSystem.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.Expressions.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.Parallel.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Linq.Queryable.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Http.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Primitives.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Requests.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.Sockets.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ObjectModel.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.Networking.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Private.Uri.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Context.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Emit.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Handles.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Security.Claims.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Security.Principal.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.Encoding.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Tasks.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Threading.Timer.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.XDocument.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\App2.csprojResolveAssemblyReference.cache
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\App.g.i.cs
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\App.g.cs
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.g.i.cs
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.g.cs
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\App.xaml
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.xaml
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\App.xbf
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.xbf
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\App2.exe
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\App2.pdb
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\ResourceHandlingTask.state
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\priconfig.xml
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\priconfig.xml.intermediate
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\layout.resfiles
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\layout.resfiles.intermediate
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\resources.resfiles
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\resources.resfiles.intermediate
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\pri.resfiles
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\pri.resfiles.intermediate
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\qualifiers.txt
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Win 10 backup 3 March 16\Visual Studio 2015\Projects\App2\App2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\ApplicationInsights.config
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\App.xbf
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\MainPage.xbf
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\App2.xr.xml
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\App2.exe
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\App2.pdb
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\resources.pri
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\AppxManifest.xml
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Core\App2.exe
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\App2.build.appxrecipe
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Core.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Numerics.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Windows.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Xml.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.AppContext.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Collections.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Data.Common.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Globalization.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.IO.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\ClrCompression.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Linq.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.Http.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Threading.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\App2.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\App.g.i.cs
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\App.g.cs
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\MainPage.g.cs
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\App.xaml
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\MainPage.xaml
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\App.xbf
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\MainPage.xbf
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\App2.exe
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\App2.pdb
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\priconfig.xml
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\layout.resfiles
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\resources.resfiles
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\pri.resfiles
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\qualifiers.txt
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michael\Dropbox\CSharp\App2\App2\obj\x86\Debug\ProjectArchitectures.txt
